@@ -1,0 +1,16 @@
+services:
+  app_db:
+    image: postgres:16-alpine
+    container_name: sales_calc_db
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: automated_sales
+      POSTGRES_USER: salesagent
+      POSTGRES_PASSWORD: commission_secure_pass_123 # INITIATED FROM .ENV IS RECOMMENDED FOR PROD
+    volumes:
+      - ./sales_data_volume:/var/lib/postgresql/data # PERSISTENT DATA
+networks:
+  default:
+    name: sales_network
