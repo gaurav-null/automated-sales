@@ -120,12 +120,5 @@ python -m unittest discover tests
 ### Data Discrepancy & Quarantine Log
 <img width="1920" height="1080" alt="image" src="https://placehold.co/1920x1080/101418/9ccbfb?text=Quarantine+Exception+Log" />
 
-## Those Who Like my Repo <3
 
-<a href="https://www.star-history.com/?repos=gaurav-null%2Fautomated-sales&type=date&logscale=&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=gaurav-null/automated-sales&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=gaurav-null/automated-sales&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=gaurav-null/automated-sales&type=date&legend=bottom-right" />
- </picture>
-</a>
+
