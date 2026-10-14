@@ -109,16 +109,16 @@ python -m unittest discover tests
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="image" src="https://placehold.co/1920x1080/101418/9ccbfb?text=Executive+Summary+Dashboard" />
+<img width="1297" height="811" alt="1" src="https://github.com/user-attachments/assets/5d732d40-403f-4a33-b9ce-122f22272089" />
 
-### Rep Leaderboard & Quota Attainment
-<img width="1920" height="1080" alt="image" src="https://placehold.co/1920x1080/101418/b9c8da?text=Rep+Leaderboard+%26+Attainment" />
 
 ### Commission Statement Breakdown
-<img width="1920" height="1080" alt="image" src="https://placehold.co/1920x1080/101418/d3bfe6?text=Commission+Statement+Breakdown" />
+<img width="1246" height="427" alt="3" src="https://github.com/user-attachments/assets/33ab6c77-cb83-4da8-ba42-8cf00cfd1a46" />
+
 
 ### Data Discrepancy & Quarantine Log
-<img width="1920" height="1080" alt="image" src="https://placehold.co/1920x1080/101418/9ccbfb?text=Quarantine+Exception+Log" />
+<img width="1314" height="943" alt="4" src="https://github.com/user-attachments/assets/4f6cd66c-345c-43f2-831d-1920812ef93a" />
+
 
 
 
